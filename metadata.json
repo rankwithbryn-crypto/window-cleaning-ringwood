@@ -1,0 +1,6 @@
+{
+  "name": "Window Cleaning Ringwood",
+  "description": "Professional window and solar panel cleaning services in Ringwood and Greater Melbourne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
